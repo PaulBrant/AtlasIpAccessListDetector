@@ -1,0 +1,16 @@
+{
+  "name": "ipaccesscheck",
+  "version": "1.0.0",
+  "description": "check for ip access list entries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paul Brant",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "digest-fetch": "^3.1.1",
+    "node-fetch": "^3.3.2"
+  }
+}
